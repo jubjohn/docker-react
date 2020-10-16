@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Docker compose works!
+          I was changed on the feature branch :P
         </p>
         <a
           className="App-link"
